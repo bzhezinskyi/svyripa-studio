@@ -9,7 +9,7 @@ import "css/variables.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter basename="svyripa-studio">
+    <BrowserRouter>
       <App />
     </BrowserRouter>
   </React.StrictMode>
